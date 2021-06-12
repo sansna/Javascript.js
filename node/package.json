@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nodemailer": "^6.6.1",
     "upper-case": "^2.0.2"
   }
 }
